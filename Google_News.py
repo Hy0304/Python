@@ -7,7 +7,7 @@ def news():
 	my_url="https://news.google.com/news/rss?ned=in&hl=en-IN"
 	#To open the Given URL
 	Client=urlopen(my_url)
-
+fsdfsdfsdfsdfsdf
 	xml_page=Client.read()
 	Client.close()
 
